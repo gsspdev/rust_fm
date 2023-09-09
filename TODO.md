@@ -1,8 +1,5 @@
-why is there feedback1) consider simplifying oscillator struct into a single type and make the mutable box an option of
-that
-
-2. seperate argument arser into it's own file
-
-3. build a frontend
-
-4. do something else
+1) optimize project structure
+2) optimize performance
+3) improve and expand command line functionality
+4) introduce command line flags
+5) add command line utilities (ie help, man, etc.)
